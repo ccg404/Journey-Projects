@@ -39,7 +39,7 @@ function LogInContainer() {
 
             <div className="px-5 py-5 font-poppins">
               <p className="text-white">
-                Don't have an account?{" "}
+                Don@apost have an account?{" "}
                 <a href="#" className="text-blue-500">
                   Sign up
                 </a>
